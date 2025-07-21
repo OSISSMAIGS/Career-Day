@@ -1,0 +1,2411 @@
+[
+  {
+    "nama": "Josh Yang",
+    "kelas": "11 IPA 1 (Internasional)",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "A.Daffa camilo",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Gabriel Marchello Ferdinand",
+    "kelas": "11 IPA 3",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nadya Yovinus",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Laquisha kireiya",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Calista Berliana Putri Sihombing",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Dzaki Firjatullah",
+    "kelas": "11 IPA 1 (Internasional)",
+    "kegiatan": [
+      "Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Revaline Tan Aurellia",
+    "kelas": "11 IPA 1 (Internasional)",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Janeeta Alifia Agustia Putri",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Sarah Ausie Medina",
+    "kelas": "11 IPA 1 (Internasional)",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Vincent Eugene Makmun",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Charles marjaya",
+    "kelas": "11 IPA 3",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Jessica Christabel",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Queenie Machiko Lukman",
+    "kelas": "11 IPA 3",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "jayden aldrich halim",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Ledira irawan",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M.Julriyan Pratama",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Keanu Hafuza Priambodo",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Alfred Felix Liawady",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M.Rizky Natanegara",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Ahmad keanu rizky",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Abdullah Ikram",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Rafif Fatih Assyahda",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Inez Haura Sakhi",
+    "kelas": "11 IPA 1 (Internasional)",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Inez Haura Sakhi",
+    "kelas": "11 IPA 1 (Internasional)",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "m.albima ardian",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Enrico Chiesa Utama",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Syafiqah Amirah Luthfiyah",
+    "kelas": "11 IPA 1 (Internasional)",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M.Raihansyaha Aryanto",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "m.albima ardian",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M.Rizky Natanegara",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Winner Aulia Paragon",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "noble jefferson",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Sulthan Raffi Atallah",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Naila azka andita",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Rr Aflah Rahmania",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Rafka ilham nur muhammad",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Rezty chantika ananda reza",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Putri Syifa Azzahra",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Viena Yang",
+    "kelas": "11 IPS 1",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Elpan Tegar Wanda Lekipali",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "ajeng mazayah salsabila",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Khalesa Talita",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Fairuz nadhifa ermanda",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nadira Kayla Rizni",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Devina Ayu Nariswari Sugiru",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M. Raffa Al Raisha",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Lovely Vania Evelyn",
+    "kelas": "11 IPA 3",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Andita Immanuela Sianipar",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "dhabitah qurratuaini",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Carlos Alpine Lie",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nesya carissa",
+    "kelas": "11 IPS 1",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Carlos Alpine Lie",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "kaori varina junaidi",
+    "kelas": "11 IPA 3",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Feillisya Putri Anjani",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Ellin Permata Sari",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Alif Nurhakim",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Victor Jonatan",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Fahri Khairullah",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Kenyta Queen Basar",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "farlishta aricia dinar",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Jihan Nur Raisha Fakhira",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "khaeirin alya al ghaffar",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Yoelino Binsar Bartolomeus Lumban Gaol",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nichiren Lorenszo Anthoni",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Celeste Wisman",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Azalia Syafia Tamima",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Farrel Al Rasyid",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Kania Tirza Siautthara",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Grace Henly Suryanto",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Laquisha kireiya",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Jesslyn Felicia",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Aulia El Palimbani",
+    "kelas": "11 IPA 3",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Michellia Fransisca",
+    "kelas": "11 IPA 3",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Ahmad keanu rizky",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Dhaffa Hafidzullah",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Grace Henly Suryanto",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Raffa Al Raisha",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Aylina Erwin Taufiek",
+    "kelas": "11 IPA 8",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Quinsha Valensia Angelica",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Warren Noverich",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Ahmad Ridho",
+    "kelas": "11 IPA 3",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Azalia Syafia Tamima",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Rafin Irwan Firmansyah",
+    "kelas": "11 IPA 8",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nadhifa Hilaliyah",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "karriza rizzahra",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Azzam Albaihaqi",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "rally",
+    "kelas": "11 IPA 8",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M. Hasan patrick alisan",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Heaven Marcellino",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Keysha Makayla Fakhirah",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Jonathan Juliyus Owen",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M. Hasan patrick alisan",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Quinsha Filza Darama",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Fairuz Amin",
+    "kelas": "11 IPA 3",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Luthfiyah Khairunnisa",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M.Alvaro Putra Zulti",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Ferlita Zahra Peranginangin",
+    "kelas": "11 IPS 1",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nichola Fermin",
+    "kelas": "11 IPA 8",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Viena Yang",
+    "kelas": "11 IPS 1",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Fauziah Callysta Hidayat",
+    "kelas": "11 IPA 3",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Andiera Quinsa Ramadhina",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Insan fathir",
+    "kelas": "11 IPA 3",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Carrenina Yansen Andreas",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Marcellio Arhion Pratama",
+    "kelas": "11 IPA 3",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Naura Angeline Girsang",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Tizen Nicolas",
+    "kelas": "11 IPA 3",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Jeveline Veronica",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Cindy Venessamoel Sandy",
+    "kelas": "11 IPS 1",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Adinda Zafirah Irawan",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "adinda zafirah irawan",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Jocelyn Shannon Queen",
+    "kelas": "11 IPS 1",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Aldrich Basado Samuelson Sijabat",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "gisella halim",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Alifah Ningdei",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Abraham collin",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Alvito Deano Rahardian",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Alvito Deano Rahardian",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Azriel Radithya Tryanto",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Constance Serendipity H.L. Tjandra",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Darren Salim",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Meilovecia Kayla Sabitha",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Rumaysha Jasmine Aurelia Juraijin",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "ahmad mirza almerzada",
+    "kelas": "11 IPA 5",
+    "kegiatan": [] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Sabrina Azkarany",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M.Khairan Aqillah B",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Dewa Putu Satria Adhinata",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Rihanna Maheswari Sastradiredja",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Dewa Putu Satria Adhinata",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Jeveline Veronica",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Jonathan David",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "chelsea chandra",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Siti Naila Zhafirah",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Kayyisah Putri Khairani",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nichola Fermin",
+    "kelas": "11 IPA 8",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Siti Naila Zhafirah",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Kayyisah Putri Khairani",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Jillian Kin Effendy",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Khairunnisa Lubna",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Ruth Selenia Quenisha",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Michiko Alexandra Sitanggang",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Bagas daffa wicaksono",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Enrico Chiesa Utama",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Khalif Ihsanul Edwin",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Lionel Nathan Aprilio",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nanda mandala prasetia",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Louise Sheryn Kurniadi",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M.Geizzua Aditha Apriansyah",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Leo Jinggan Sabili",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M.Geizzua Aditha Apriansyah",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Owen Easton Xie",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Gilbert hans",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M. Arkan",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M. Alvis Haikal Putra",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Istar Syada",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M.Raffi Al-Haris",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Margaretha Queen Gading",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Rizka Ayu Andini",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nadia Shafira",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nathasya Averill Chandra",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Naura Angeline Girsang",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Aurellia Feodora",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Jaselin Aurellia Iswandy Rusly",
+    "kelas": "11 IPS 1",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Raya Ibrahim Taher",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Salwa Putri Aqilah",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Syiezha Naiyra Qanieta Rasyid",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Vincent Leonard Yang",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "DL. Milka Lim",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Joice Theresia Simanjuntak",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Istar Syada",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Fajar al buchory",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nailah Rizki Prawestri",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Rizki Fadhillah",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M. Hasan patrick alisan",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M.A Raafi Ardhana",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nicholas Jeremy Hutagalung",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nanda mandala",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Naufal Afakr Idlan",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Rasya Rezvan Saputra",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Jessica Anastasia Kheng",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Chilwin Ebiella",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Danish Adhitia Ibrahim",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Joyce Bong",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M.Akbar Rahmatullah",
+    "kelas": "11 IPS 1",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Rizki Fadhillah",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Rizki Fadhillah",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Keriel Xavier Kunawi",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Elysia Claire Callysta",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Bagas daffa wicaksono",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nabila Aqillah Maharani",
+    "kelas": "11 IPS 1",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Kezia Tiffany Sugianto",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Alisa Luna Zafira",
+    "kelas": "11 IPS 1",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Made Diva Lovenia",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Mario Alvian",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Dafina lateefa",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "m.aysel al thariq",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Naura Syauqina Humaira",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Madelyne Anastasia Yau",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Zacky Aryo bimo",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Mario Alvian",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Marvin Jestin",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nadirra Farisha Edie",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Dzaky Arfiansyah",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Naureen Pradipa Syahni",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "ZAFIRAH ADZRA ADIVA",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Raffa Saputra",
+    "kelas": "11 IPA 8",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nathaniel Christian",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Dzaky Arfiansyah",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Raihanah Nabila Az Zahrah",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Shelin",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "mishel maretha sunardi",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Shirin Azzahra",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Stevania Josetta",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Sukainah Alawiyah",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "steven kwek",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "ajeng mazayah salsabila",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Quinsha Dinara Amalia",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Abdul Atha Mori",
+    "kelas": "11 IPA 2",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Brigitta Maria Quina",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Christian Rafael Pandiangan",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Danish Bhaskara Gumilang",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Syifa aurellia",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Alqaira Fatian Wycandra",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Kathleen Cayleigh Tan",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Hans Hazel Dyvi",
+    "kelas": "11 IPS 1",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Marsha revallyn",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Keisha aniela",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "almira zahra",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nayla Almas Salwadiva",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "quinsha hidayatun nazilla",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Saskia Elvaretta",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Saskia Elvaretta",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Saskia Elvaretta",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Quinsha Dinara Amalia",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Saskia Elvaretta",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Siti Fadilah Ahmad",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Valencia Rusmin",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Vanessa Kurniawan",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Adelyne Khalia Aldora",
+    "kelas": "11 IPA 8",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Syifa aurellia",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Tiffany Hendrawan",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "chelsea patricia",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "mishel maretha sunardi",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Janeeta Syadza",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Joylovelyn Vontricia Wijaya",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "AKHDAN ARIF ATHAYA",
+    "kelas": "11 IPA 8",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Azzaam Al Ghathfaan",
+    "kelas": "11 IPA 8",
+    "kegiatan": [
+      "Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Monic Amelia",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "mackenzie kh",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Stevany Clarice Agustin",
+    "kelas": "11 IPA 3",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Visakha citta",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Gishella Violine",
+    "kelas": "11 IPA 8",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Gishella Violine",
+    "kelas": "11 IPA 8",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Syafiqah Ramadhani",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad Arya Saputra",
+    "kelas": "11 IPA 8",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Vanda zivara putri",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Joelin Noviana Jopi",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Denil Sen Lim",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Praditya Zakki Pratama",
+    "kelas": "11 IPA 8",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Talitha Aurellia syifa",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "algis kadanta justine",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Muhammad billy satria",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "zabirama yuri",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Putri Aisyah Rizkiya",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Nyayu Fatimah azzahrah",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Michelle Araceli",
+    "kelas": "11 IPS 1",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "marvel",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Zefanya Fida Celia",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M.Dyvo Atahiri",
+    "kelas": "11 IPA 3",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Keannu Zakki Muhammad Tigor",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Keyla Maritza Juliani",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Algi Sandjaya",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Information System (09:30 - 11:00): \"Building Future Leaders Through Technology\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Frederick Nelsen",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Keyla Maritza Juliani",
+    "kelas": "11 IPA 7",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Fidarisma Anggraini",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Immanuella Thiodora Marbun",
+    "kelas": "11 IPA 9",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Richard Alvino",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Grace Cilla Putri Metarivandi",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Sarah Khaira Altafunisa",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Licia Emiliandra",
+    "kelas": "11 IPS 1",
+    "kegiatan": [
+      "Global Business Chinese (11:00 - 12:30): \"Kaligrafi & Peta: Jelajahi Dunia Mandarin dengan Cara Seru!\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Rafha Adinata",
+    "kelas": "11 IPA 10",
+    "kegiatan": [
+      "Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "Interior Design (09:30 - 11:00): \"From Imagination to Inspiration: Moodboard Making For Interior Spaces\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Amirah Carissa Abinaya",
+    "kelas": "11 IPS 3",
+    "kegiatan": [
+      "Hotel Management (09:30 - 11:00): \"Transform Your Dream Into A Thriving Career As An Executive Officer, Restaurant Manager, and Professional Hotelier\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\"",
+      "DKV - Animation (13:30 -  15:00): \"Character Design in Animation: From Line To Final\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "titi camelia",
+    "kelas": "11 IPS 2",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\"",
+      "Business Management (08:00 - 09:30): \"Sketch Your Startup: Workshop On Business Model Canvas\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Princess Angeline",
+    "kelas": "11 IPA 6",
+    "kegiatan": [
+      "Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "Louis Peter Thang",
+    "kelas": "11 IPA 4",
+    "kegiatan": [
+      "Computer Science  (08:00 - 09:30): \"AI untuk Mendukung Kreativitas Siswa\", Business Creation (11:00 - 12:30): \"Bikin Cuan Sejak Muda: Cara Jadi Young Entrepeneur Zaman NOW\""
+    ] ,
+    "absen" : "false"
+  },
+  {
+    "nama": "M.asyraf daffa p",
+    "kelas": "11 IPA 5",
+    "kegiatan": [
+      "ASO - Automotive & Robotic Engineering (11:00 - 12:30): \"Drive the Future: Karier Cemerlang di Dunia Otomotif & Robotika\", Japanese Popular Culture (13:30 -  15:00): \"Working in Japan Creative Industries and Hospitality: Peluang Lulusan Japanese Popular Culture Program\""
+    ] ,
+    "absen" : "false"
+  }
+]
