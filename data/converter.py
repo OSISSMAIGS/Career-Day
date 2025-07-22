@@ -49,8 +49,8 @@ def csv_to_activities(csv_filepath, json_filepath):
         json.dump(result, j, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
-    num = 11
-    csv_path  = f"data_kelas{num}.csv"    # sesuaikan path input
-    json_path = f"data_kelas{num}.json" # output JSON
+    num = 12
+    csv_path  = f"kelas{num}_new.csv"    # sesuaikan path input
+    json_path = f"kelas{num}_new.json" # output JSON
     csv_to_activities(csv_path, json_path)
     print(f"✅ Berhasil menulis {len(open(json_path).read().splitlines())-1} entri ke {json_path}")
